@@ -8,6 +8,6 @@ namespace Services
 {
     public interface IFibonacciService
     {
-        Task<int> FibonacciSequence(int index);
+        int FibonacciSequence(int index);
     }
 }

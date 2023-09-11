@@ -9,10 +9,20 @@ namespace Services
     public sealed class FibonacciService : IFibonacciService
     {
         public FibonacciService() { }
-        public async Task<int> FibonacciSequence(int index)
+        public int FibonacciSequence(int index)
         {
-            int val = 2;
-            return val;
+            return Operation(index);
+        }
+        private int Operation(int index)
+        {
+            if (index == 0 || index == 1)
+            {
+                return index;
+            }
+            else
+            {
+                return Operation(index - 1) + Operation(index - 2);
+            }
         }
     }
 }

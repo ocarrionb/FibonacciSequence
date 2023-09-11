@@ -31,3 +31,5 @@ C:\Proyectos\FibonacciSequence\Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
 C:\Proyectos\FibonacciSequence\Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
 C:\Proyectos\FibonacciSequence\Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
 C:\Proyectos\FibonacciSequence\Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll
+C:\Proyectos\FibonacciSequence\Fibonacci\bin\Debug\net7.0\Services.dll
+C:\Proyectos\FibonacciSequence\Fibonacci\bin\Debug\net7.0\Services.pdb
