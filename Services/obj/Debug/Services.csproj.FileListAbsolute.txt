@@ -1,0 +1,6 @@
+C:\Proyectos\FibonacciSequence\Services\bin\Debug\Services.dll
+C:\Proyectos\FibonacciSequence\Services\bin\Debug\Services.pdb
+C:\Proyectos\FibonacciSequence\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Proyectos\FibonacciSequence\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Proyectos\FibonacciSequence\Services\obj\Debug\Services.dll
+C:\Proyectos\FibonacciSequence\Services\obj\Debug\Services.pdb

@@ -27,7 +27,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Proyectos\\FibonacciSequence\\Services\\Services.csproj": {
+                "projectPath": "C:\\Proyectos\\FibonacciSequence\\Services\\Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -70,6 +74,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Proyectos\\FibonacciSequence\\Services\\Services.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\FibonacciSequence\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Proyectos\\FibonacciSequence\\Services\\Services.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
